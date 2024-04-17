@@ -11,3 +11,8 @@ body, ul, li, a {
     color: white;
     text-align: center;
 }
+
+#navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
